@@ -46,4 +46,4 @@ Then comes desktop version. for that I used Grid for positioning logo and navbar
 - Twitter - [@FaisalAhmed_01](https://www.twitter.com/FaisalAhmed_01)
 
 ## Acknowledgments
-This project is one my practising projects.
+This project is among one of upcomming projects.
